@@ -53,8 +53,8 @@ Includes a graphical interface, score logging, a Top 5 leaderboard, and menu nav
 
 ##  Authors
 
-- António Alves – Nº 58339  
-- Cátia Carraça – Nº 59205  
+- António Alves - Nº 58339  
+- Cátia Carraça - Nº 59205  
 
 ##  Report
 
