@@ -21,7 +21,7 @@ Includes a graphical interface, score logging, a Top 5 leaderboard, and menu nav
 ├── Relatorio_58339_59205_55379.pdf # Project report (Portuguese)
 
 
-## 🕹 Features
+##  Features
 
 -  2-player turn-based gameplay
 - Control via arrow keys and Enter
